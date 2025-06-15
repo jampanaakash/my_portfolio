@@ -121,7 +121,7 @@ const Portfolio = () => {
       title: 'Object Detection with Audio Feedback',
       description: 'Python-based app that uses OpenCV to detect objects and pyttsx3 for audio feedback. Designed for accessibility support.',
       tech: ['Python', 'OpenCV', 'pyttsx3'],
-      github: 'https://github.com/jampanaakash/object-detection-audio-feedback',
+      github: 'https://github.com/jampanaakash/Object-Detection-with-Audio-Feedback.git',
       live: null,
       image: 'https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=500'
     }
